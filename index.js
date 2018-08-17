@@ -13,4 +13,4 @@ bot.on('message', function (message) {
    } 
 }) 
 
-bot.login('NDc4OTg5MDk1OTYwNDQ0OTI4.DlTwSA.xjhq3ZHvf96gYqj86wfy1rxRanQ')
+bot.login(process.env.NDc4OTg5MDk1OTYwNDQ0OTI4.DlTwSA.xjhq3ZHvf96gYqj86wfy1rxRanQ);
